@@ -13,7 +13,11 @@ Este projeto é um aplicativo web interativo que permite aos usuários pesquisar
 * CSS
 * JavaScript
 
-Para iniciar a aplicação, acesse: https://gperazolli.github.io/imersao-dev_google-gemini/
+### Comece sua aventura!
+
+Para iniciar sua jornada pelo mundo de The Witcher e explorar o bestiário, clique no botão abaixo:
+
+[Iniciar Aplicação](https://gperazolli.github.io/imersao-dev_google-gemini/)
 
 
 **Aviso:** Este projeto é destinado apenas a fins educacionais e de entretenimento. Não nos responsabilizamos por quaisquer encontros desagradáveis com criaturas sobrenaturais. 
