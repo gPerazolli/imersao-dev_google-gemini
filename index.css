@@ -145,7 +145,11 @@ footer{
 }
 
 
+<<<<<<< HEAD
 @media screen and (max-width: 426px) {
+=======
+@media screen and (max-width: 320px) {
+>>>>>>> 0918926d4bcdfd6cbfe91840827e1736a5561781
 
 
     body{
@@ -171,14 +175,20 @@ footer{
     section button{
         width: 35px;
         height: 30px;
+<<<<<<< HEAD
         padding: 10px;
+=======
+>>>>>>> 0918926d4bcdfd6cbfe91840827e1736a5561781
         border: 2px solid black;
         background-image: url(./img/lupa.svg);
         background-position: center;
         background-color: #ffffff9a;
         text-indent: -9999px;
+<<<<<<< HEAD
         border-radius: 100%;
         padding: 5px;
+=======
+>>>>>>> 0918926d4bcdfd6cbfe91840827e1736a5561781
     }
 
     .resultados-pesquisa{
@@ -201,7 +211,12 @@ footer{
 
     footer{
         font-size: 14px;
+<<<<<<< HEAD
         
+=======
+        position: absolute;
+        bottom: 0;
+>>>>>>> 0918926d4bcdfd6cbfe91840827e1736a5561781
     }
 
 }
